@@ -3,7 +3,7 @@
 This project uses:
 * arudino 
 * minstorms
-*solid works
+* solid works
 
 # responsibilities
 Name | Jobs
