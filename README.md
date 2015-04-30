@@ -14,4 +14,4 @@ Add these people to the assignee of the issue if you think they would be best su
 assign themselves if they have time.
  
 #Discussion
-We will be using [Slack](agsrobotics.slack.com) or discussion but there is a meeting every tuesday and thursday.
+We will be using [Slack](https://agsrobotics.slack.com) or discussion but there is a meeting every tuesday and thursday.
